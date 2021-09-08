@@ -1,6 +1,15 @@
 h1{
-    font-size: 30px;
-    color: blue;
+    font-size: 40px;
+    color: red;
     margin: 0 auto;
-    width: fit-content;
+    width: 150px;
+    text-shadow: 4px 4px 10px rgba(255, 0, 0, 1);
+}
+
+p {
+    font-size: 26px;
+    color: sienna;
+    font-style: italic;
+    border: 1px solid black;
+    border-radius: 5px;
 }
