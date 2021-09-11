@@ -4,3 +4,14 @@ h1{
     margin: 0 auto;
     width: fit-content;
 }
+
+.block {
+    background-color: aqua;
+    height: 250px;
+    width: 250px;
+    text-align: center;
+    margin: 0 auto;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
