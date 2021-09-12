@@ -15,3 +15,14 @@ h1{
     padding: 10px;
     border-radius: 10px;
 }
+
+h2 {
+    color: aquamarine;
+    font-size: 36px;
+    margin: 0 auto;
+    width: fit-content;
+    padding: 20px;
+    margin-top: 20px;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,40,121,1) 42%, rgba(4,127,189,1) 77%, rgba(0,212,255,1) 100%);
+}
